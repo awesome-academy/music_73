@@ -5,5 +5,14 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="crimson">#E2102E</color>
+    <color name="red_a700">#D50000</color>
+    <color name="home_red_a700">#D50000</color>
+    <color name="trending_purple_600">#8E24AA</color>
+    <color name="album_amber_400">#FFCA28</color>
+    <color name="genres_blue_a400">#2979FF</color>
+    <color name="bghome_red_50">#FFEBEE</color>
+    <color name="bgtrending_purple_50">#F3E5F5</color>
+    <color name="bgalbum_yellow_50">#FFFDE7</color>
+    <color name="bggenres_blue_50">#E3F2FD</color>
+
 </resources>
