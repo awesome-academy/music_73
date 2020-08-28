@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">SunMusic</string>
     <string name="track">Bài hát</string>
-    <string name="home">Trang chủ</string>
-    <string name="trending">Thịnh hành</string>
-    <string name="album">Bộ sưu tập</string>
-    <string name="genres">Thể loại</string>
+    <string name="home">HOME</string>
+    <string name="trending">TRENDING</string>
+    <string name="album">ALBUM</string>
+    <string name="genres">GENRES</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
