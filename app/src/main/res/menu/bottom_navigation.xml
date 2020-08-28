@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/item_trending"
+        android:icon="@drawable/ic_trending"
+        android:title="@string/trending" />
+    <item
+        android:id="@+id/item_album"
+        android:icon="@drawable/ic_album"
+        android:title="@string/album" />
+    <item
+        android:id="@+id/item_genres"
+        android:icon="@drawable/ic_genres"
+        android:title="@string/genres" />
+
+</menu>
